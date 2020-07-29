@@ -26,6 +26,7 @@ public class VerifyURLTest {
              System.out.println("FAIL");
              System.out.println("Expected Result :"+expectedUrl);
              System.out.println("Actual URL: "+ actualUrl);
+             System.out.println("GitHub Denemesi icin bunu ekledim");
 
          }
 
